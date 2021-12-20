@@ -12,3 +12,4 @@ Hello, I am Milos Milijasevic from Serbia and I do web development. I really enj
 - 💻 CSS
 - 💻 Bootstrap
 #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilosM00&theme=dark&show_icons=true)

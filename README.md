@@ -6,10 +6,11 @@ Hello, I am Milos Milijasevic from Serbia and I do web development. I really enj
 - ⚡ Fun fact: I like to workout.
 - 📫 How to reach me: milos.milijasevic00@gmail.com
 #
-### Skills: 
+### Skills:
 - 💻 WordPress
 - 💻 HTML
 - 💻 CSS
 - 💻 Bootstrap
+- 💻 ⚙
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilosM00&theme=dark&show_icons=true)

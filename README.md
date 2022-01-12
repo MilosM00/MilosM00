@@ -13,4 +13,3 @@ I also like to work in SQL, in fact, I used to do Back End development in CakePH
 - </> WordPress | HTML | CSS | Bootstrap | SASS
 - ⚙ SQL | C# | PHP | Git
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilosM00&theme=dark&show_icons=true)

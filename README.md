@@ -9,7 +9,7 @@ I also like to work in SQL, in fact, I used to do Back End development in CakePH
 - 📫 How to reach me: milos.milijasevic00@gmail.com
 #
 ### Skills:
-- 💻 MS Word | MS Excel | MS PowerPoint | Adobe Photoshop
-- </> WordPress | HTML | CSS | Bootstrap | SASS
-- ⚙ SQL | C# | PHP | Git
+- 💻 MS Word ●|● MS Excel ●|● MS PowerPoint ●|● Adobe Photoshop
+- </> WordPress ●|● HTML ●|● CSS ●|● Bootstrap ●|● SASS
+- ⚙ SQL ●|● C# ●|● PHP ●|● Git
 #

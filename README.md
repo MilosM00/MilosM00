@@ -11,5 +11,5 @@ I also like to work in SQL, in fact, I used to do Back End development in CakePH
 ### Skills:
 - 💻 MS Word ●|● MS Excel ●|● MS PowerPoint ●|● Adobe Photoshop
 - </> WordPress ●|● HTML ●|● CSS ●|● Bootstrap ●|● SASS
-- ⚙ SQL ●|● C# ●|● PHP ●|● Git
+- ⚙ SQL ●|● C# ●|● PHP ●|● Git 
 #

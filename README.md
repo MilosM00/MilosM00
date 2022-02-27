@@ -10,7 +10,7 @@ Maybe someday I will be ready to be a Full-Stack web developer. <br>
 - ✉ milos.milijasevic00@gmail.com
 #
 ### ◆ Skills:
-- 💻 MS Word – MS Excel – MS PowerPoint – Adobe Photoshop
-- </> WordPress – HTML – CSS – Bootstrap – SASS
+- 💻 MS Word – MS Excel – MS PowerPoint – Adobe Photoshop – WordPress
+- </> HTML – CSS – Bootstrap – SASS
 - ⚙ SQL – C# – Git
 #

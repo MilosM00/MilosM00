@@ -7,7 +7,6 @@ I also like to work in SQL, in fact, I used to do Back-End development in CakePH
 Maybe someday I will be ready to be a Full-Stack web developer. <br>
 - 🧩 I’m currently learning JavaScript
 - ⚡ I like to workout, read books, watch movies, tv series, anime series
-- ✉ milos.milijasevic00@gmail.com
 #
 ### ◆ Skills:
 - 💻 MS Word – MS Excel – MS PowerPoint – Adobe Photoshop – WordPress

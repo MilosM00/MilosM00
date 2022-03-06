@@ -10,6 +10,6 @@ Maybe someday I will be ready to be a Full-Stack web developer. <br>
 #
 ### ◆ Skills:
 - 💻 MS Word – MS Excel – MS PowerPoint – Adobe Photoshop – WordPress
-- </> HTML – CSS – Bootstrap – SASS
+- </> HTML – CSS – BOOTSTRAP – SASS
 - ⚙ SQL – C#
 #

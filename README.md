@@ -13,3 +13,9 @@ Maybe someday I will be ready to be a Full-Stack web developer. <br>
 - </> HTML – CSS – Bootstrap – SASS
 - ⚙ SQL – C#
 #
+### ◆ Projects:
+I am trying to do more and more projects, <br>
+Also I will update some of the projects if I have a reason to do it. <br> <br>
+You can look at pinned projects that are recent posted. <br>
+For more projects look for the repositories section. ↑
+#

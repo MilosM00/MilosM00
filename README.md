@@ -5,7 +5,7 @@ As a kid I liked computers. Now, as a grown-up man, I found my passion and I enj
 I enjoy learning new programming languages and frameworks like JavaScript and C#. <br> <br>
 I also like to work in SQL, in fact, I tried to do Back-End development in CakePHP, but that did not go well. <br>
 So I set focus on Front-End development and I am satisfied. <br>
-Maybe someday I will be ready to be a Full-Stack web developer, but for now, I am so far away from that. <br>
+Maybe someday I will be ready to be a Full-Stack developer, but for now, I am so far away from that. <br>
 - 🧩 I’m currently learning JavaScript
 - ⚡ I like to workout, read books, watch movies, tv series, anime series
 #

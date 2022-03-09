@@ -1,6 +1,6 @@
 #
 ### ◆ About Me:
-Hello, I am Milos from Serbia and I do Front-End web development. <br>
+Hello, I am Milos from Serbia and I do Front-End development. <br>
 As a kid I liked computers. Now, as a grown-up man, I found my passion and I enjoy it. <br>
 I enjoy learning new programming languages and frameworks like JavaScript and C#. <br> <br>
 I also like to work in SQL, in fact, I tried to do Back-End development in CakePHP, but that did not go well. <br>

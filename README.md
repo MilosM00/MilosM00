@@ -1,5 +1,5 @@
 #
-### ◆ About:
+### ◆ About Me:
 Hello, I am Milos from Serbia and I do Front-End development. <br>
 As a kid I liked computers. Now, as a grown-up man, I found my passion and I enjoy it. <br>
 I enjoy learning new programming languages and frameworks like JavaScript and C#. <br> <br>
@@ -18,5 +18,5 @@ Maybe someday I will be ready to be a Full-Stack developer, but for now, I am so
 I am trying to do more and more projects, <br>
 Also, I will update some of the projects if I have a reason to do it. <br> <br>
 You can look at all my projects in the repositories section ↑ <br>
-Also, there are pinned projects that are recently added ↓
+Also, there are pinned projects that are recently added
 #

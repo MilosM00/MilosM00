@@ -1,7 +1,7 @@
 ### Hello and Welcome! 👋 <br /> 
 I'm Miloš from Serbia and I do Front-End development. <br />
 
-I enjoy learning new languages and frameworks like JavaScript. <br />
+I enjoy learning new programming languages and frameworks like JavaScript. <br />
 Also, I really enjoy building new projects.
 
 #

@@ -1,7 +1,12 @@
-### Hello and Welcome! <br /> 
-I'm Milos from Serbia and I do Front-End development.
+### Hello and Welcome! 👋 <br /> 
+I'm Milos from Serbia and I do Front-End development. <br />
 
-I'm trying to do more and more projects, <br>
+I enjoy learning new languages and frameworks like JavaScript. <br />
+Also, I really enjoy building new projects.
+
+#
+
+I'm trying to do more and more projects <br>
 Also, I will update some of the projects if I have a reason to do it. <br> <br>
 You can look at all my projects in the repositories section ↑ <br>
 Also, there are pinned projects that are recently added ↓

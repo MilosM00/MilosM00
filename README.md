@@ -1,4 +1,4 @@
-### <i>HELLO AND WELCOME!</i> 👋 <br />
+### <i>HELLO AND WELCOME!</i> <br />
 
 I'm Miloš from Serbia and I'm currently working as a Web Designer. <br />
 I enjoy learning new programming languages like JavaScript and PHP. <br /> <br />
